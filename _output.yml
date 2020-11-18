@@ -18,6 +18,7 @@ bookdown::gitbook:
       all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
     info: yes
 
+
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
