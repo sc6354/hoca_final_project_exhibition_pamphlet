@@ -1,4 +1,4 @@
-# Applications
+# Artifact 4
 
 Some _significant_ applications are demonstrated in this chapter.
 
