@@ -1,5 +1,5 @@
 --- 
-title: "Exhibition Pamphlet (Working title"
+title: "Exhibition Pamphlet (Working title)"
 author: "Dragon team"
 date: "`December 18, 2020`"
 site: bookdown::bookdown_site
