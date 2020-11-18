@@ -1,7 +1,12 @@
 bookdown::gitbook:
+  highlight: kate
   css: style.css
   config:
+    edit:
+      link: https://github.com/sc6354/hoca_final_project_exhibition_pamphlet/edit/master/%s
+      text: "Suggest an edit"
     toc:
+      collapse: section
       before: |
         <li><a href="./">Exhibtion Pamplet (working title)</a></li>
       after: |
@@ -9,15 +14,14 @@ bookdown::gitbook:
     download: ["pdf", "epub"]
     sharing:
       facebook: yes
-      github: no
+      github: yes
       twitter: yes
       linkedin: yes
       weibo: no
-      instapaper: yes
+      instapaper: no
       vk: no
-      all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+      all: ['facebook', 'twitter', 'linkedin', 'weibo', 'github']
     info: yes
-
 
 bookdown::pdf_book:
   includes:
@@ -27,7 +31,7 @@ bookdown::pdf_book:
   keep_tex: yes
   
 bookdown::epub_book: default
-  cover_image: NULL
+  
 
 
 

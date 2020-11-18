@@ -10,16 +10,16 @@
 
   <meta property="og:title" content="Exhibition Pamphlet (Working title)" />
   <meta property="og:type" content="book" />
-  
-  
+  <meta property="og:url" content="https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/" />
+  <meta property="og:image" content="https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/images/dragon.jpg" />
   <meta property="og:description" content="this is the online pamplet to an exhibition about dragons." />
-  
+  <meta name="github-repo" content="sc6354/hoca_final_project_exhibition_pamphlet" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Exhibition Pamphlet (Working title)" />
   
   <meta name="twitter:description" content="this is the online pamplet to an exhibition about dragons." />
-  
+  <meta name="twitter:image" content="https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/images/dragon.jpg" />
 
 <meta name="author" content="Dragon team" />
 
@@ -30,7 +30,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
-  
+  <link rel="shortcut icon" href="&lt;“images/favicon.ico”&gt;" type="image/x-icon" />
 
 <link rel="next" href="artifact1.html"/>
 <script src="libs/header-attrs-2.5/header-attrs.js"></script>
@@ -138,16 +138,16 @@ code span.wa { color: #bf0303; } /* Warning */
 <li><a href="./">Exhibtion Pamplet (working title)</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Motivation</a></li>
-<li class="chapter" data-level="2" data-path="artifact1.html"><a href="artifact1.html"><i class="fa fa-check"></i><b>2</b> Artifact 1</a></li>
-<li class="chapter" data-level="3" data-path="artifact2.html"><a href="artifact2.html"><i class="fa fa-check"></i><b>3</b> Artifact 2</a></li>
-<li class="chapter" data-level="4" data-path="artifact3.html"><a href="artifact3.html"><i class="fa fa-check"></i><b>4</b> Artifact 3</a></li>
-<li class="chapter" data-level="5" data-path="artifact4.html"><a href="artifact4.html"><i class="fa fa-check"></i><b>5</b> Artifact 4</a>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Motivation</a></li>
+<li class="chapter" data-level="" data-path="artifact1.html"><a href="artifact1.html"><i class="fa fa-check"></i>Artifact 1</a></li>
+<li class="chapter" data-level="" data-path="artifact2.html"><a href="artifact2.html"><i class="fa fa-check"></i>Artifact 2</a></li>
+<li class="chapter" data-level="" data-path="artifact3.html"><a href="artifact3.html"><i class="fa fa-check"></i>Artifact 3</a></li>
+<li class="chapter" data-level="" data-path="artifact4.html"><a href="artifact4.html"><i class="fa fa-check"></i>Artifact 4</a>
 <ul>
-<li class="chapter" data-level="5.1" data-path="artifact4.html"><a href="artifact4.html#example-one"><i class="fa fa-check"></i><b>5.1</b> Example one</a></li>
-<li class="chapter" data-level="5.2" data-path="artifact4.html"><a href="artifact4.html#example-two"><i class="fa fa-check"></i><b>5.2</b> Example two</a></li>
+<li class="chapter" data-level="0.1" data-path="artifact4.html"><a href="artifact4.html#example-one"><i class="fa fa-check"></i><b>0.1</b> Example one</a></li>
+<li class="chapter" data-level="0.2" data-path="artifact4.html"><a href="artifact4.html#example-two"><i class="fa fa-check"></i><b>0.2</b> Example two</a></li>
 </ul></li>
-<li class="chapter" data-level="6" data-path="artifact5.html"><a href="artifact5.html"><i class="fa fa-check"></i><b>6</b> Artifact 5</a></li>
+<li class="chapter" data-level="" data-path="artifact5.html"><a href="artifact5.html"><i class="fa fa-check"></i>Artifact 5</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -173,8 +173,8 @@ code span.wa { color: #bf0303; } /* Warning */
 <p class="author"><em>Dragon team</em></p>
 <p class="date"><em><code>December 18, 2020</code></em></p>
 </div>
-<div id="motivation" class="section level1" number="1">
-<h1><span class="header-section-number">1</span> Motivation</h1>
+<div id="motivation" class="section level1 unnumbered">
+<h1>Motivation</h1>
 <p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>)</span>
 <span id="cb1-2"><a href="index.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># or the development version</span></span>
@@ -205,14 +205,14 @@ code span.wa { color: #bf0303; } /* Warning */
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
+"github": true,
 "facebook": true,
 "twitter": true,
 "linkedin": true,
 "weibo": false,
-"instapaper": true,
+"instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "github"]
 },
 "fontsettings": {
 "theme": "white",
@@ -220,8 +220,8 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": null,
-"text": null
+"link": "https://github.com/sc6354/hoca_final_project_exhibition_pamphlet/edit/master/index.Rmd",
+"text": "Suggest an edit"
 },
 "history": {
 "link": null,
@@ -233,7 +233,7 @@ gitbook.start({
 },
 "download": ["hoca_final_project_exhibition_pamphlet.pdf", "hoca_final_project_exhibition_pamphlet.epub"],
 "toc": {
-"collapse": "subsection"
+"collapse": "section"
 },
 "info": true
 });

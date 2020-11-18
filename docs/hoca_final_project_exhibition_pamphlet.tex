@@ -128,7 +128,8 @@
 \tableofcontents
 }
 \hypertarget{motivation}{%
-\chapter{Motivation}\label{motivation}}
+\chapter*{Motivation}\label{motivation}}
+\addcontentsline{toc}{chapter}{Motivation}
 
 The \textbf{bookdown} package can be installed from CRAN or Github:
 
@@ -145,7 +146,8 @@ Remember each Rmd file contains one and only one chapter, and a chapter is defin
 To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): \url{https://yihui.org/tinytex/}.
 
 \hypertarget{artifact1}{%
-\chapter{Artifact 1}\label{artifact1}}
+\chapter*{Artifact 1}\label{artifact1}}
+\addcontentsline{toc}{chapter}{Artifact 1}
 
 You can label chapter and section titles using \texttt{\{\#label\}} after them, e.g., we can reference Chapter \ref{intro}. If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \ref{methods}.
 
@@ -216,17 +218,20 @@ Sepal.Length & Sepal.Width & Petal.Length & Petal.Width & Species\\
 You can write citations, too. For example, we are using the \textbf{bookdown} package \citep{R-bookdown} in this sample book, which was built on top of R Markdown and \textbf{knitr} \citep{xie2015}.
 
 \hypertarget{artifact2}{%
-\chapter{Artifact 2}\label{artifact2}}
+\chapter*{Artifact 2}\label{artifact2}}
+\addcontentsline{toc}{chapter}{Artifact 2}
 
 Here is a review of existing methods.
 
 \hypertarget{artifact3}{%
-\chapter{Artifact 3}\label{artifact3}}
+\chapter*{Artifact 3}\label{artifact3}}
+\addcontentsline{toc}{chapter}{Artifact 3}
 
 We describe our methods in this chapter.
 
 \hypertarget{artifact4}{%
-\chapter{Artifact 4}\label{artifact4}}
+\chapter*{Artifact 4}\label{artifact4}}
+\addcontentsline{toc}{chapter}{Artifact 4}
 
 Some \emph{significant} applications are demonstrated in this chapter.
 
@@ -237,7 +242,8 @@ Some \emph{significant} applications are demonstrated in this chapter.
 \section{Example two}\label{example-two}}
 
 \hypertarget{artifact5}{%
-\chapter{Artifact 5}\label{artifact5}}
+\chapter*{Artifact 5}\label{artifact5}}
+\addcontentsline{toc}{chapter}{Artifact 5}
 
 We have finished a nice book.
 

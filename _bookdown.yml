@@ -1,6 +1,9 @@
 book_filename: "hoca_final_project_exhibition_pamphlet"
 delete_merged_file: true
+
 output_dir: "docs"
 language:
   ui:
     chapter_name: ""
+    
+new_session: "yes"

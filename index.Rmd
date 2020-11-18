@@ -8,9 +8,13 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "this is the online pamplet to an exhibition about dragons."
+github-repo: sc6354/hoca_final_project_exhibition_pamphlet
+favicon: <"images/favicon.ico">
+cover-image: images/dragon.jpg
+url: https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/
 ---
 
-# Motivation 
+# Motivation {-}
 
 
 The **bookdown** package can be installed from CRAN or Github:
