@@ -1,4 +1,4 @@
-# Artifact 4
+# Artifact 4 {#artifact4}
 
 Some _significant_ applications are demonstrated in this chapter.
 
