@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Dragon Paintings in the Song and Yuan Dynasties {-#artifact5}
+# Dragon Paintings in the Song and Yuan Dynasties {-#Dragon_Paintings}
 
 ---
 
