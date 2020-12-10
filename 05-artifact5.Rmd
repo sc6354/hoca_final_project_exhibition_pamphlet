@@ -2,16 +2,19 @@
 
 ---
 
-# The emergence of Dragon paintings in the Song Dynasty {-}
+## The emergence of Dragon paintings in the Song Dynasty {-}
 
 During the Song dynasty, dragon paintings emerged as an independent painting genre. As a result, Chinese artists were given more room to experiment with styles, techniques, and compositions that they felt would best capture the likeness and spirit of the imaginary creature (Tseng). Simultaneously, ideas about the representation of the supernatural (including dragons) regained discussion as scholars pointed out that the form of the supernatural could be easily fabricated since they are not fully visible (Wenyuange). Nonetheless, the composition and form of the dragon developed during the Song Dynasty are closest to what is now generally regarded as the Chinese Dragon. 
 
+```
 knitr::include_graphics(rep('images/Nine_Dragons.jpg'))
+
+```
 
 Nine Dragons is a paper scroll by southern Song dynasty artist, Chen Rong, measuring 46.8 cm in height and 14996.5 cm in length. Chen Rong is widely celebrated for his depictions of dragons and this painting, in particular, is highly praised for its grandeur length and style. The monochromatic black ink painting dates back to 1244 and is currently the lengthiest surviving painted dragon scroll. It is now housed in the Museum of Fine Arts in Boston.
 The painting also features running scripts and inscriptions that give details about Chen Rong’s motivations for the painting. From the inscriptions, we know that Chen Rong was inspired by two earlier paintings, namely, Nine Horses and Nine Deer. They were, respectively, created by Cao Ba (AD 704-770), a general and painter of the Tang Dynasty (AD 618-907), and Huichong, a monk and painter active in the early Northern Song Dynasty (960-1127). Not to many’s surprises, Chen Rong also painted another famous dragon handscroll called Five Dragons, but in a vertical orientation
 
-# Dragon Paintings as Bearers of Rain {-}
+## Dragon Paintings as Bearers of Rain {-}
 
 Another development of dragon art as it pertains to the Song and Yuan dynasties is the conception of dragons as water. As such, dragon paintings were used in rain rituals by the state to summon rain (Purtle). In Song Shi (The History of the Song Dynasty), three accounts of state-prescribed rain rituals were recorded, two of which used dragon effigies.
 
