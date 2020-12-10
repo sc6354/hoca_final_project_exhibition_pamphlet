@@ -18,12 +18,19 @@ pre code {
 }
 
 
+ /*------------- Whole Document---------------- */
+
+body {
+    font-family: 'Poiret One', sans-serif;;
+    font-size: 19px;
+}
+
 
  /*------------- Body and header text---------------- */
 
 .book.font-family-1 {
   font-family: 'Poiret One', sans-serif;
-  font-size: 1.5em !important;
+  font-size: 2em !important;
 }
   
   h1, h2, h3, h4 {
@@ -31,16 +38,20 @@ pre code {
   font-size: 3em !important;
   color: #2f5275;
 }
+  body {
+    font-family: 'Poiret One', sans-serif;;
+    font-size: 19px;
+}
 
 .title {
   font-family: 'Monoton', serif;
-  font-size: 3em !important;
+  font-size: 9em !important;
   color: #5699cc;
  }
 
 .subtitle {
   font-family: 'Monoton', serif;
-  font-size: 3em !important;
+  font-size: 9em !important;
   color: #2c6793;
 }
 
