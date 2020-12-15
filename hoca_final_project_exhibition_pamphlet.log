@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  15 DEC 2020 16:33
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  15 DEC 2020 16:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1025,20 +1025,37 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 88.
 [5] [6
 
+] [7] [8
+
 ]
 Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+File: images/Jade_Pig_Dragon.png Graphic file (type bmp)
+<images/Jade_Pig_Dragon.png>
+
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 103--104
+[][] 
+ []
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 105.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[9]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.101 ...extheight]{images/1. Jade_Pig_Dragon.png}
+l.109 ...s/Appliqué _in_the_form_of_a_Dragon.png}
                                                    
 Here is how much of TeX's memory you used:
- 27221 strings out of 492916
- 496372 string characters out of 6133346
- 711281 words of memory out of 5000000
- 31063 multiletter control sequences out of 15000+600000
+ 27227 strings out of 492916
+ 496501 string characters out of 6133346
+ 710281 words of memory out of 5000000
+ 31067 multiletter control sequences out of 15000+600000
  536220 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 58i,6n,115p,932b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,6n,115p,966b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hoca_final_project_exhibition_pamphlet.pdf (6 pages).
+Output written on hoca_final_project_exhibition_pamphlet.pdf (9 pages).

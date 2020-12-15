@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-agon Art in Ancient China {-#ancient}
+# Dragon Art in Ancient China {-#ancient}
 
 ---
 
@@ -13,7 +13,7 @@ Discovered at Sanguan Dianzi in Liaoning province, from the Neolithic  Hongshan 
 
 <center>
 
-![](images/1. Jade_Pig_Dragon.png){width=100%}
+![](images/Jade_Pig_Dragon.png){width=100%}
 
 [(c. 3500 BC., Hongshan Culture, Neolithic period). Pig-Dragon Ring; Jade. The National Museum of China, Beijing, China.]()
 </center>

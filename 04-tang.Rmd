@@ -1,7 +1,23 @@
-# Artifact 4 {-#artifact4}
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Silk Road Influences {-#tang}
 
-Some _significant_ applications are demonstrated in this chapter.
+---
 
-## Example one
+<center>
 
-## Example two
+![](images/gilded_dragon.png){width=120%}
+
+[(Tang Dynasty). Mirror with Dragon, Bronze with Iron Core. Shaanxi History Museum, Xi’an.]()
+</center>
+
+
+<center>
+
+![](images/jar.png){}
+
+[(c. 7th century AD)., Tang Dynasty. Jar with Dragon-Headed Handles, Stoneware. The Metropolitan Museum, New York.](https://www.metmuseum.org/art/collection/search/45862)
+</center>
