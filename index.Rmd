@@ -11,7 +11,7 @@ indent: true
 description: "This is the online pamplet to an exhibition of dragons in Chinese art. This is part of a final curation project for History of Chinese Art at NYU Shanghai Fall 2020."
 github-repo: sc6354/hoca_final_project_exhibition_pamphlet
 favicon: images/favicon.ico
-cover-image: images/dragon.jpg
+cover-image: images/cover.png
 url: https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/
 
 ---
