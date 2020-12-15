@@ -3,9 +3,8 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Rise of Dragon sculptures as luxury items {-#zhou_&_han}
+# Rise of Dragon sculptures as luxury items {-#zhou_han}
 
----
 
 
 <center>

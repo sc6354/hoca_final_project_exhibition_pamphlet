@@ -4,7 +4,6 @@ output:
   html_document: default
 ---
 
-
 # Dragon Paintings in the Song and Yuan Dynasties {-#Dragon_Paintings}
 
 

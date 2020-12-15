@@ -1,5 +1,5 @@
 --- 
-title: "Dragons Throughout Chinese Arts"
+title: ""
 author: "Dragon team"
 date: "December 14, 2020"
 site: bookdown::bookdown_site

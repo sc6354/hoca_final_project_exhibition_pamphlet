@@ -78,42 +78,23 @@ text-decoration: none;
 }
 
 /* HERO IMAGE */
-
 .hero-image-container {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
-  height: 390px;
+  height: 190px;
   background-color: #133454;
 }
 
 .hero-image {
   width: 100%;
-  height: 290px;
-  /* HERO IMAGE */
-
-.hero-image-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 390px;
-  background-color: #133454;
-}
-
-.hero-image {
-  width: 75%;
-  height: 350px;
-  fit: fill;
+  height: 190px;
+  fit: meet;
 }
 
 .page-inner {
-  padding-top: 400px;
-}
-
-.page-inner {
-  padding-top: 700px;
+  padding-top: 300px;
 }
 
 
