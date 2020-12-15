@@ -1,7 +1,4 @@
-# Artifact 7 {-#artifact7}
+A`r if (knitr::is_html_output()) '
+# References {-}
+'`
 
-Some _significant_ applications are demonstrated in this chapter.
-
-## Example one
-
-## Example two
