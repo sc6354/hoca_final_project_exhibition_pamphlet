@@ -16,5 +16,10 @@ url: https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/
 
 ---
 
+
+
+
+
+
 # Motivation {-}
 

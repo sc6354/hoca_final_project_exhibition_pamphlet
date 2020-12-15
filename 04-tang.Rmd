@@ -9,7 +9,7 @@ output:
 
 <center>
 
-![](images/gilded_dragon.png){width=120%}
+![](images/gilded_dragon.png){height=70%}
 
 [(Tang Dynasty). Mirror with Dragon, Bronze with Iron Core. Shaanxi History Museum, Xi’an.]()
 </center>

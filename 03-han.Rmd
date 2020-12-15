@@ -7,6 +7,7 @@ output:
 
 ---
 
+
 <center>
 
 ![](images/knotted_dragon.jpg)
@@ -16,7 +17,8 @@ output:
 <center>
 
 The Knotted Dragon Pendant artifact is from the Eastern Zhou dynasty during the Warring States period (475-221BC). It is made of jade or nephrite, and the dimensions are 7.9 cm in height and 5.2 cm in width. The Metropolitan Museum of Art in New York first exhibited this artifact in the 2005 “Arts of Ancient China” exhibition. It was donated by the Ernest Erickson Foundation in 1985. According to the museum, the exquisite detailing of the dragon head shape with a twisted rope body design on the pendant using jade, which is hard to handle, shows the advanced technique of the Zhou Dynasty jade carvers.
-        	During the Eastern Zhou time, the dragon had less of a ritual and auspicious significance than the previous dynasties. The function of the dragon decoration was more for an indication of luxury. The detailed features of the dragon were achieved by highly advanced carvers therefore, only people with status and of royal descent could have these designs.
+
+During the Eastern Zhou time, the dragon had less of a ritual and auspicious significance than the previous dynasties. The function of the dragon decoration was more for an indication of luxury. The detailed features of the dragon were achieved by highly advanced carvers therefore, only people with status and of royal descent could have these designs.
 
 
 
@@ -26,7 +28,7 @@ The Han Dynasty believed the dragon design had an auspicious meaning. The dragon
 
 
 
-![](images/1. Jade_Pig_Dragon.png){width=100%}
+![](images/Mirror_with_Nipple_and_Dragon_Design.png){width=100%}
 
 [(206 BC – AD 9, Western Han Dynasty). Mirror with Nipple and Dragon Design, Bronze. The Metropolitan Museum, New York.](https://www.metmuseum.org/art/collection/search/74429)
 </center>
