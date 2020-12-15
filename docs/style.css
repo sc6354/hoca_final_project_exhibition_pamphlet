@@ -90,8 +90,26 @@ text-decoration: none;
 
 .hero-image {
   width: 100%;
+  height: 290px;
+  /* HERO IMAGE */
+
+.hero-image-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
   height: 390px;
-  fit: cover;
+  background-color: #133454;
+}
+
+.hero-image {
+  width: 75%;
+  height: 350px;
+  fit: fill;
+}
+
+.page-inner {
+  padding-top: 400px;
 }
 
 .page-inner {
