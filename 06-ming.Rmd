@@ -3,9 +3,12 @@ output:
   pdf_document: default
   html_document: default
 ---
+
 # Dragons as Political Symbols  {-#ming}
 
 ---
+
+## The Ming Lacquer Sutra Box {-}
 
 <center>
 
@@ -19,6 +22,8 @@ This is a wooden sutra box dated to the Yongle period of the Ming Dynasty (1403-
 This lacquerware sutra box was created for use in the Yongle emperor’s court. It can be seen that the dragons depicted on this piece have five claws indicating that this was created for the explicit purpose of being used by the emperor himself or by members of his court. While the specific association of the emperor to five-clawed dragons only came about in the Yuan dynasty, the more general association of the emperor to dragons can be traced to Liu Bang who founded the Han dynasty and claimed descent from a dragon.
 	In addition to its political symbolism this dragon also maintains religious significance. Dragons have been used as an auspicious symbol in Chinese art for millenia. However, this particular usage of a dragon in Buddhist art can be seen as a continuation of the Song dynasty’s use of existing Chinese symbols in place of more traditional Indian symbols.
 
+
+## The Ming Lacquer Dish with Dragons {-}
 
 <center>
 
