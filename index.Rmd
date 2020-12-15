@@ -1,6 +1,6 @@
 --- 
-title: ""
-author: "Dragon team"
+title: "The Chinese Dragon: A Lasting Evolution"
+author: "by the `Dragon team`"
 date: "December 14, 2020"
 site: bookdown::bookdown_site
 documentclass: book
