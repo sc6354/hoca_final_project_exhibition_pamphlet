@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  15 DEC 2020 20:20
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  15 DEC 2020 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1008,6 +1008,8 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 ] [5] [6
 
+] [7] [8
+
 ]
 Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
 File: images/Jade_Pig_Dragon.png Graphic file (type bmp)
@@ -1016,19 +1018,19 @@ File: images/Jade_Pig_Dragon.png Graphic file (type bmp)
 Package hyperref Warning: Suppressing link with empty target on input line 139.
 
 
-[7]
+[9]
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.145 ...s/Appliqué _in_the_form_of_a_Dragon.png}
                                                    
 Here is how much of TeX's memory you used:
- 27193 strings out of 492916
- 495300 string characters out of 6133346
+ 27187 strings out of 492916
+ 495149 string characters out of 6133346
  711398 words of memory out of 5000000
- 31045 multiletter control sequences out of 15000+600000
- 534636 words of font info for 51 fonts, out of 8000000 for 9000
+ 31041 multiletter control sequences out of 15000+600000
+ 534620 words of font info for 49 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,115p,932b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hoca_final_project_exhibition_pamphlet.pdf (7 pages).
+Output written on hoca_final_project_exhibition_pamphlet.pdf (9 pages).

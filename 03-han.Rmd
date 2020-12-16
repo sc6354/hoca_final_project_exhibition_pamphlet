@@ -10,7 +10,7 @@ output:
 
 <center>
 
-![](images/knotted_dragon.jpg)
+![](images/knotted_dragon.jpg){width = 50,height = 50%}
 
 [(3rd century BC, Eastern Zhou Dynasty, Warring States period). Knotted Dragon Pendant, Jade (nephrite). The Metropolitan Museum, New York.](https://www.metmuseum.org/art/collection/search/39637)
 </center>
@@ -28,7 +28,7 @@ The Han Dynasty believed the dragon design had an auspicious meaning. The dragon
 
 
 <center>
-![](images/Mirror_with_Nipple_and_Dragon_Design.png){width=100%}
+![](images/Mirror_with_Nipple_and_Dragon_Design.jpg){width=100%}
 
 [(206 BC – AD 9, Western Han Dynasty). Mirror with Nipple and Dragon Design, Bronze. The Metropolitan Museum, New York.](https://www.metmuseum.org/art/collection/search/74429)
 </center>
