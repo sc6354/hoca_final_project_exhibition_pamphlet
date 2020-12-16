@@ -12,6 +12,8 @@ description: "This is the online pamplet to an exhibition of dragons in Chinese 
 github-repo: sc6354/hoca_final_project_exhibition_pamphlet
 favicon: images/favicon.ico
 cover-image: images/cover.png
+apple-touch-icon: "images/favicon_io/apple-touch-icon.png"
+apple-touch-icon-size: 120
 url: https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/
 
 ---
