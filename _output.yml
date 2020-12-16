@@ -1,7 +1,6 @@
 bookdown::gitbook:
   includes:
-    in_header: header.html
-    before_body: hero-image.html
+    before_body: header.html
   highlight: kate
   css: style.css
   config:
