@@ -13,7 +13,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://artspaces.kunstmatrix.com/en/exhibition/3398947/dragons-in-chinese-art" target="blank">Exhibition Link</a></li>
         <li><a href = "https://github.com/sc6354/hoca_final_project_exhibition_pamphlet">Link to Project Repository</a></li>
-    download: ["pdf", "epub"]
+    download: ["epub"]
     toolbar:
       position: statics
     # changing the default
@@ -31,13 +31,6 @@ bookdown::gitbook:
       vk: no
       all: ['facebook', 'twitter', 'linkedin', 'weibo', 'github']
     info: yes
-
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
   
 bookdown::epub_book: default
   
