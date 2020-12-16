@@ -10,7 +10,7 @@ output:
 
 <center>
 
-![](images/knotted_dragon.jpg){width = 50,height = 50%}
+![](images/knotted_dragon.jpg){height = 50%}
 
 [(3rd century BC, Eastern Zhou Dynasty, Warring States period). Knotted Dragon Pendant, Jade (nephrite). The Metropolitan Museum, New York.](https://www.metmuseum.org/art/collection/search/39637)
 </center>
