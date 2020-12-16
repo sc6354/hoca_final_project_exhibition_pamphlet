@@ -6,6 +6,7 @@ bookdown::gitbook:
   config:
     toc:
       collapse: section
+      toc_float: true
       scroll_highlight: yes
       before: |
         <li class="toc-logo"><a href="./"><img src="images/cover.png"></a></li>
