@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
 
 
-p.caption {
+.caption {
   color: #777;
   margin-top: 10px;
 }
@@ -23,17 +23,17 @@ pre code {
 
 .book.font-family-1 {
   font-family: 'Poiret One', sans-serif;
-  font-size: 2em !important;
+  font-size: 2em;
 }
   
   h1, h2, h3, h4 {
   font-family: 'Poiret One', serif;
-  font-size: 3em;
+  font-size: 2em;
   color: #2f5275;
 }
   
 .title {
-  font-family: 'Monoton', serif;
+  font-family: 'Poiret One', serif;
   font-size: 2em;
   color: #5699cc;
  }
@@ -87,12 +87,12 @@ text-decoration: none;
 
 .hero-image {
   width: 100%;
-  height: 190px;
+  height: 290px;
   fit: meet;
 }
 
 .page-inner {
-  padding-top: 300px;
+  padding : 320px;
 }
 
 
