@@ -9,7 +9,7 @@ bookdown::gitbook:
       scroll_highlight: yes
       before: |
         <li class="toc-logo"><a href="./"><img src="images/cover.png"></a></li>
-        <li>The Chinese Dragon: An online Exhibtion</li>
+        <li>Exhibtion Pamphlet</li>
       after: |
         <li><a href="https://artspaces.kunstmatrix.com/en/exhibition/3398947/dragons-in-chinese-art" target="blank">Exhibition Link</a></li>
         <li><a href = "https://github.com/sc6354/hoca_final_project_exhibition_pamphlet">Link to Project Repository</a></li>
