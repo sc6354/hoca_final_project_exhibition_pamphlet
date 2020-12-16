@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap');
 
 
 .caption {
@@ -23,7 +23,7 @@ pre code {
 
 .book.font-family-1 {
   font-family: 'Poiret One', sans-serif;
-  font-size: 2em;
+  font-size: 3em;
 }
   
   h1, h2, h3, h4 {
@@ -33,7 +33,7 @@ pre code {
 }
   
 .title {
-  font-family: 'Poiret One', serif;
+  font-family: 'Kanit', serif;
   font-size: 2em;
   color: #5699cc;
  }
