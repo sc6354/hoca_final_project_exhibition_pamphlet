@@ -13,6 +13,8 @@ bookdown::gitbook:
       after: |
         <li><a href="https://artspaces.kunstmatrix.com/en/exhibition/3398947/dragons-in-chinese-art" target="blank">Exhibition Link</a></li>
         <li><a href = "https://github.com/sc6354/hoca_final_project_exhibition_pamphlet">Link to Project Repository</a></li>
+        <li><a>  </a></li>
+        <li><a>  </a></li>
     download: ["epub"]
     toolbar:
       position: statics
