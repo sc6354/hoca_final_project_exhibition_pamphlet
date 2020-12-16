@@ -21,7 +21,6 @@ bookdown::gitbook:
     fontsettings:
       theme: night
       family: sans
-      size: 16
     sharing:
       facebook: yes
       github: yes
