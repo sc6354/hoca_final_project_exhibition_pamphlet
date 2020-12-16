@@ -16,7 +16,7 @@ It is called a “Pig-Dragon” because the form of the snout is similiar to tha
 
 <center>
 
-![](images/Jade_Pig_Dragon.png){height=35%}
+![](images/Jade_Pig_Dragon.png){width=60%}
 
 [(c. 3500 BC., Hongshan Culture, Neolithic period). Pig-Dragon Ring; Jade. The National Museum of China, Beijing, China.]()
 </center>
@@ -28,7 +28,7 @@ During the Shang dynasty the dragon figure was overshadowed by the mystical figu
 
 <center>
 
-![](images/Appliqué _in_the_form_of_a_Dragon.png){width=100%}
+![](images/Appliqué _in_the_form_of_a_Dragon.png){width=75%}
 
 [(13th–11th century B.C., Shang Dynasty). Appliqué in the Form of a Dragon, Bronze. The Metropolitan Museum of Art, New York, United States.](https://www.metmuseum.org/art/collection/search/49505)
 </center>

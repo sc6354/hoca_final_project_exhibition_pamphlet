@@ -17,8 +17,9 @@ apple-touch-icon-size: 120
 url: https://sc6354.github.io/hoca_final_project_exhibition_pamphlet/
 
 ---
+# ______________ {-}
 
-# Note to Readers {-}
+## Note to Readers {-}
 We are very pleased to present this collection of ten works featuring the Chinese Dragon across dynasties and across different mediums. Some of the works in this collection have known artists, which allowed us to delved deeper into the artist's technique or motivation. However, most works do not have known artists, but are still included because they are central to our narrative. 
 
 Our goal was to curate a few dragon artwork(s) from the following time periods to offer a wholistic timeline of how the meaning and usage of dragon artworks changed and evolved through time:
