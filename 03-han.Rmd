@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# From an Auspicious Design to a Luxurious item {-#zhou_han}
+# From Luxury Designs to Auspicious Symbols {-#zhou_han}
                                  
 ---
 
