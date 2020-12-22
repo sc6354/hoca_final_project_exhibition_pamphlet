@@ -11,7 +11,7 @@ bookdown::gitbook:
         <li class="toc-logo"><a href="./"><img src="images/cover.png"></a></li>
         <li>Exhibition Pamphlet</li>
       after: |
-        <li><a href="https://artspaces.kunstmatrix.com/en/exhibition/3398947/the-chinese-dragon-a-lasting-evolution?returnUrl=exhibition/4712/configurator" target="blank">Exhibition Link</a></li>
+        <li><a href="https://artspaces.kunstmatrix.com/en/exhibition/3398947/the-chinese-dragon-a-lasting-evolution" target="blank">Exhibition Link</a></li>
         <li><a href = "https://github.com/sc6354/hoca_final_project_exhibition_pamphlet" target="blank">Link to Project Repository</a></li>
         <li><a>  </a></li>
         <li><a>  </a></li>
